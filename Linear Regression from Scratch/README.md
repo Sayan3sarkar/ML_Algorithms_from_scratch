@@ -8,4 +8,4 @@ In this notebook, we will build a simple Univariate Linear Regression Model in P
 
 <img src="Linear_regression.png" height="420" width="840">
 
-We will not be using **scikit-learn** for our model as we implement our model from scratch but we load our dataset from scikit-learn itself.a
+We will not be using **scikit-learn** for our model as we implement our model from scratch but we load our dataset from scikit-learn itself.
