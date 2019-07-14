@@ -6,6 +6,6 @@ Linear regression is one of the most basic and popular algorithms in machine lea
 
 In this notebook, we will build a simple Univariate Linear Regression Model in Python from scratch to predict House Prices.
 
-<img src="Linear_regression.png" height="42" width="42">
+<img src="Linear_regression.png" height="420" width="420">
 
 We will not be using **scikit-learn** for our model as we implement our model from scratch but we load our dataset from scikit-learn itself.
